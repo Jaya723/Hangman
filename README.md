@@ -12,18 +12,18 @@ A simple Python implementation of the classic Hangman game. The program allows t
 <br>
 ##Installation<br>
 To run this project, you need Python installed on your computer.
-
-Clone this repository using the command:
-
-git clone https://github.com/yourusername/hangman-game.git
-Navigate to the project directory:
-cd hangman-game
 <br>
-##Running the Game
-To play the Hangman game, run the following command in your terminal or command prompt:
-python hangman.py
-
-Follow the prompts to start guessing the word.
+Clone this repository using the command:<br>
+git clone https://github.com/yourusername/hangman-game.git
+<br>
+Navigate to the project directory:<br>
+cd hangman-game<br>
+<br>
+##Running the Game<br>
+To play the Hangman game, run the following command in your terminal or command prompt:<br>
+python hangman.py<br>
+<br>
+Follow the prompts to start guessing the word.<br>
 <br>
 Usage<br>
 1.The game will randomly pick a word.<br>
