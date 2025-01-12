@@ -10,15 +10,7 @@ A simple Python implementation of the classic Hangman game. The program allows t
 4.Visual representation of the hangman being drawn after each incorrect guess.<br>
 5.Tracks the number of attempts remaining.<br>
 <br>
-##Installation<br>
-To run this project, you need Python installed on your computer.
-<br>
-Clone this repository using the command:<br>
-git clone https://github.com/yourusername/hangman-game.git
-<br>
-Navigate to the project directory:<br>
-cd hangman-game<br>
-<br>
+
 ##Running the Game<br>
 To play the Hangman game, run the following command in your terminal or command prompt:<br>
 python hangman.py<br>
