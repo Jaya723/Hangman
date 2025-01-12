@@ -11,13 +11,7 @@ A simple Python implementation of the classic Hangman game. The program allows t
 5.Tracks the number of attempts remaining.<br>
 <br>
 
-##Running the Game<br>
-To play the Hangman game, run the following command in your terminal or command prompt:<br>
-python hangman.py<br>
-<br>
-Follow the prompts to start guessing the word.<br>
-<br>
-Usage<br>
+##Usage<br>
 1.The game will randomly pick a word.<br>
 2.You'll be asked to guess letters.<br>
 3.If you guess a letter correctly, it will be revealed in the word.<br>
